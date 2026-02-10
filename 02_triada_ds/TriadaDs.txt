@@ -1,0 +1,8 @@
+La Tríada de la Ciencia de Datos
+
+-Estadística: Se enfoca en la recopilación, análisis y interpretación de datos para entender patrones y tendencias. 
+La estadística proporciona la base para entender los datos y tomar decisiones informadas.
+
+-Análisis de Datos: Se enfoca en la exploración y transformación de datos para extraer insights y patrones. El análisis de datos utiliza técnicas estadísticas y computacionales para entender los datos y prepararlos para el Machine Learning.
+
+-Machine Learning: Se enfoca en desarrollar algoritmos que aprendan de los datos y mejoren su rendimiento con el tiempo. El Machine Learning utiliza los insights obtenidos del análisis de datos y la estadística para desarrollar modelos predictivos y clasificatorios.

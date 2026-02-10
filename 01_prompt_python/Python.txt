@@ -1,0 +1,16 @@
+Python es un lenguaje de programacion interepretado desarrollado por Guido Van Rosseum  a finales de 1989 en el CWI de Paises Bajos
+su nombre se inspiró en el grupo de comediantes Monty Python. La primera versión pública (0.9.0) se lanzó el 20 de febrero de 1991.
+
+Algunas ares en dodne se ocupa se decribe a continuacion:
+
+-Desarrollo web (con frameworks como Django y Flask).
+
+-Análisis de datos y computación científica (con librerías como Pandas, NumPy, SciPy).
+
+-Inteligencia Artificial (IA) y Machine Learning (con TensorFlow, PyTorch, Scikit-learn).
+
+-Automatización de tareas (scripting) y DevOps.
+
+-Desarrollo de software y aplicaciones de escritorio.
+
+-Visualización de datos (con Matplotlib, Seaborn).

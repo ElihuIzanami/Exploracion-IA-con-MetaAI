@@ -1,0 +1,23 @@
+
+-Llama 4 Scout:
+Parámetros activos: 17.000 millones
+Expertos: 16
+Ventana de contexto: 10 millones de tokens
+Enfoque: Tareas técnicas, análisis de código, síntesis de documentación
+Ventajas: Eficiencia, velocidad y capacidad para manejar grandes cantidades de texto
+
+-Llama 4 Maverick:
+Parámetros activos: 17.000 millones
+Expertos: 128
+Ventana de contexto: No especificada
+Enfoque: Tareas complejas, escritura creativa, interpretación de texto e imagen
+Ventajas: Mayor capacidad para tareas complejas y mejor rendimiento en benchmarks
+
+-Llama 4 Behemoth:
+Parámetros activos: 288.000 millones
+Expertos: 16
+Ventana de contexto: No especificada
+Enfoque: Tareas de alto rendimiento, matemáticas, multilingüismo e interpretación visual
+Ventajas: Mayor capacidad de procesamiento y rendimiento en tareas complejas, aún en fase de entrenamiento
+Arquitectura y Tecnología.
+
